@@ -1,0 +1,2170 @@
+{
+  "parties": [
+      {
+          "id": "party-1",
+          "name": "Austrian People's Party (ÖVP)",
+          "country": "Austria",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Austria focusing on economic stability, European integration, and traditional values.",
+              "website": "https://www.oevp.at/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-2",
+          "name": "Social Democratic Party of Austria (SPÖ)",
+          "country": "Austria",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Austria advocating for social welfare policies and EU integration.",
+              "website": "https://www.spoe.at/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-3",
+          "name": "The Greens – The Green Alternative (Die Grünen)",
+          "country": "Austria",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive party in Austria focused on environmentalism, social justice, and human rights.",
+              "website": "https://www.gruene.at/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-4",
+          "name": "Austrian Freedom Party (FPÖ)",
+          "country": "Austria",
+          "eu_affiliation": "EFDD",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing populist party in Austria prioritizing national sovereignty, immigration control, and Austrian identity.",
+              "website": "https://www.fpoe.at/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-5",
+          "name": "The New Austria and Liberal Forum (NEOS)",
+          "country": "Austria",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Austria advocating for free market policies and liberal social values.",
+              "website": "https://www.neos.eu/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-6",
+          "name": "New Flemish Alliance (N-VA)",
+          "country": "Belgium",
+          "eu_affiliation": "ECR",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing political party in Belgium advocating for Flemish independence and conservative values.",
+              "website": "https://www.n-va.be/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-7",
+          "name": "Socialist Party (sp.a)",
+          "country": "Belgium",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Belgium advocating for social justice and welfare policies.",
+              "website": "https://www.sp.a.be/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-8",
+          "name": "The Greens (Groen)",
+          "country": "Belgium",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in Belgium focused on environmental sustainability and social justice.",
+              "website": "https://www.groen.be/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-9",
+          "name": "Open Flemish Liberals and Democrats (Open VLD)",
+          "country": "Belgium",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Belgium focused on liberal values, free markets, and EU integration.",
+              "website": "https://www.openvld.be/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-10",
+          "name": "Christian Democratic and Flemish (CD&V)",
+          "country": "Belgium",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Belgium advocating for Christian values, social market economy, and EU cooperation.",
+              "website": "https://www.cdv.be/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-11",
+          "name": "GERB (Citizens for European Development of Bulgaria)",
+          "country": "Bulgaria",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Bulgaria focusing on economic reforms, European integration, and anti-corruption policies.",
+              "website": "https://www.gerb.bg/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-12",
+          "name": "Bulgarian Socialist Party (BSP)",
+          "country": "Bulgaria",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Bulgaria advocating for social justice, welfare policies, and EU integration.",
+              "website": "https://www.bsp.bg/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-13",
+          "name": "Movement for Rights and Freedoms (DPS)",
+          "country": "Bulgaria",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Bulgaria representing the interests of ethnic minorities, particularly the Turkish community.",
+              "website": "https://www.dps.bg/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-14",
+          "name": "The United Patriots (Obedinenite Patrioti)",
+          "country": "Bulgaria",
+          "eu_affiliation": "EFDD",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A nationalist and right-wing political alliance in Bulgaria focusing on national sovereignty, immigration control, and traditional values.",
+              "website": "https://www.novini.bg/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-15",
+          "name": "Croatian Democratic Union (HDZ)",
+          "country": "Croatia",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Croatia, focused on European integration, economic growth, and traditional values.",
+              "website": "https://www.hdz.hr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-16",
+          "name": "Social Democratic Party (SDP)",
+          "country": "Croatia",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Croatia, advocating for social democracy, welfare policies, and European unity.",
+              "website": "https://www.sdp.hr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-17",
+          "name": "We Can! (Možemo!)",
+          "country": "Croatia",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in Croatia focused on environmental sustainability, social equality, and good governance.",
+              "website": "https://www.mozemo.hr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-18",
+          "name": "Bridge (Most)",
+          "country": "Croatia",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Croatia focusing on anti-corruption measures and fiscal responsibility.",
+              "website": "https://www.most.hr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-19",
+          "name": "Democratic Rally (DISY)",
+          "country": "Cyprus",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Cyprus focused on European integration, economic stability, and conservative values.",
+              "website": "https://www.disy.org.cy/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-20",
+          "name": "Progressive Party of Working People (AKEL)",
+          "country": "Cyprus",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Cyprus advocating for workers' rights, social justice, and EU integration.",
+              "website": "https://www.akel.org.cy/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-21",
+          "name": "Democratic Party (Diko)",
+          "country": "Cyprus",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Cyprus advocating for moderate policies and balanced governance.",
+              "website": "https://www.diko.com.cy/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-22",
+          "name": "ANO 2011",
+          "country": "Czech Republic",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in the Czech Republic, founded by billionaire Andrej Babiš, advocating for pragmatic governance, economic growth, and anti-corruption policies.",
+              "website": "https://www.ano2011.cz/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-23",
+          "name": "Czech Pirate Party",
+          "country": "Czech Republic",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in the Czech Republic focused on digital rights, transparency, and European cooperation.",
+              "website": "https://www.pirati.cz/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-24",
+          "name": "Civic Democratic Party (ODS)",
+          "country": "Czech Republic",
+          "eu_affiliation": "ECR",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in the Czech Republic, advocating for free-market policies, low taxes, and conservative values.",
+              "website": "https://www.ods.cz/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-25",
+          "name": "Communist Party of Bohemia and Moravia (KSČM)",
+          "country": "Czech Republic",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in the Czech Republic advocating for Marxist principles, workers' rights, and opposition to austerity.",
+              "website": "https://www.kscm.cz/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-26",
+          "name": "TOP 09",
+          "country": "Czech Republic",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in the Czech Republic advocating for free-market policies, social welfare, and European integration.",
+              "website": "https://www.top09.cz/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-27",
+          "name": "Freedom and Direct Democracy (SPD)",
+          "country": "Czech Republic",
+          "eu_affiliation": "EFDD",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing populist party in the Czech Republic prioritizing national sovereignty, opposition to immigration, and Euroscepticism.",
+              "website": "https://www.ksp.cz/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-28",
+          "name": "Social Democrats (Socialdemokratiet)",
+          "country": "Denmark",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Denmark focusing on social welfare policies, economic equality, and European integration.",
+              "website": "https://www.socialdemokratiet.dk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-29",
+          "name": "Venstre (Liberal Party)",
+          "country": "Denmark",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Denmark advocating for free-market policies, individual freedom, and technological innovation.",
+              "website": "https://www.venstre.dk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-30",
+          "name": "Danish People's Party (DF)",
+          "country": "Denmark",
+          "eu_affiliation": "ECR",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing populist party in Denmark focusing on national sovereignty, anti-immigration policies, and Euroscepticism.",
+              "website": "https://www.danskfolkeparti.dk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-31",
+          "name": "The Red-Green Alliance (Enhedslisten)",
+          "country": "Denmark",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Denmark advocating for social equality, anti-austerity measures, and environmental sustainability.",
+              "website": "https://enhedslisten.dk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-32",
+          "name": "Radikale Venstre (Social Liberal Party)",
+          "country": "Denmark",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Denmark advocating for liberal values, social justice, and European cooperation.",
+              "website": "https://www.radikale.dk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-33",
+          "name": "Estonian Centre Party (Eesti Keskerakond)",
+          "country": "Estonia",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Estonia focused on social welfare, economic equality, and pro-European Union policies.",
+              "website": "https://www.keskerakond.ee/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-34",
+          "name": "Estonian Reform Party (Eesti Reformierakond)",
+          "country": "Estonia",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Estonia advocating for free-market policies, individual freedoms, and economic reforms.",
+              "website": "https://www.reform.ee/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-35",
+          "name": "Pro Patria (Isamaa)",
+          "country": "Estonia",
+          "eu_affiliation": "ECR",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Estonia focusing on national sovereignty, traditional values, and economic growth.",
+              "website": "https://www.isamaa.ee/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-36",
+          "name": "Social Democratic Party (Sotsiaaldemokraatlik Erakond)",
+          "country": "Estonia",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Estonia focused on social equality, workers' rights, and pro-European Union policies.",
+              "website": "https://www.sotsid.ee/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-37",
+          "name": "Estonian Conservative People's Party (EKRE)",
+          "country": "Estonia",
+          "eu_affiliation": "ID",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing populist party in Estonia advocating for nationalism, anti-immigration policies, and Euroscepticism.",
+              "website": "https://www.ekre.ee/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-38",
+          "name": "Centre Party of Finland (Suomen Keskusta)",
+          "country": "Finland",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Finland focusing on rural development, social welfare, and pro-European Union policies.",
+              "website": "https://www.keskusta.fi/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-39",
+          "name": "National Coalition Party (Kansallinen Kokoomus)",
+          "country": "Finland",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Finland advocating for free-market policies, individual freedoms, and economic reforms.",
+              "website": "https://kokoomus.fi/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-40",
+          "name": "Finnish Social Democratic Party (Suomen Sosialidemokraattinen Puolue)",
+          "country": "Finland",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Finland focusing on social equality, welfare, and European unity.",
+              "website": "https://www.sdp.fi/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-41",
+          "name": "The Greens (Vihreä Liitto)",
+          "country": "Finland",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in Finland focused on environmentalism, social justice, and human rights.",
+              "website": "https://www.vihreat.fi/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-42",
+          "name": "Finns Party (Perussuomalaiset)",
+          "country": "Finland",
+          "eu_affiliation": "ID",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing populist party in Finland focusing on nationalism, anti-immigration policies, and Euroscepticism.",
+              "website": "https://www.perussuomalaiset.fi/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-43",
+          "name": "Left Alliance (Vasemmistoliitto)",
+          "country": "Finland",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Finland promoting social equality, anti-austerity measures, and workers' rights.",
+              "website": "https://www.vasemmisto.fi/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-44",
+          "name": "The Republicans (Les Républicains)",
+          "country": "France",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in France advocating for conservative values and a strong European Union.",
+              "website": "https://www.les-republicains.fr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-45",
+          "name": "Socialist Party (Parti Socialiste)",
+          "country": "France",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in France focusing on social justice, welfare, and European unity.",
+              "website": "https://www.parti-socialiste.fr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-46",
+          "name": "La République En Marche (LREM)",
+          "country": "France",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in France founded by Emmanuel Macron, focusing on progressive reforms and European cooperation.",
+              "website": "https://en.marche.fr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-47",
+          "name": "France Insoumise",
+          "country": "France",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political movement in France advocating for direct democracy, social justice, and anti-austerity policies.",
+              "website": "https://franceinsoumise.fr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-48",
+          "name": "National Rally (Rassemblement National)",
+          "country": "France",
+          "eu_affiliation": "ENF",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A far-right political party in France focusing on nationalism, anti-immigration policies, and Euroscepticism.",
+              "website": "https://rassemblementnational.fr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-49",
+          "name": "Democratic Movement (Mouvement Démocrate)",
+          "country": "France",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in France advocating for democratic values, European integration, and social progress.",
+              "website": "https://www.mouvementdemocrate.fr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-50",
+          "name": "Christian Democratic Union (CDU)",
+          "country": "Germany",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Germany advocating for economic stability and European integration.",
+              "website": "https://www.cdu.de/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-51",
+          "name": "Social Democratic Party of Germany (SPD)",
+          "country": "Germany",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Germany focusing on social justice and EU integration.",
+              "website": "https://www.spd.de/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-52",
+          "name": "Alliance 90/The Greens (Bündnis 90/Die Grünen)",
+          "country": "Germany",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in Germany focused on environmental sustainability and social equality.",
+              "website": "https://www.gruene.de/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-53",
+          "name": "Free Democratic Party (FDP)",
+          "country": "Germany",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Germany advocating for individual freedoms, free markets, and technological innovation.",
+              "website": "https://www.fdp.de/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-54",
+          "name": "The Left (Die Linke)",
+          "country": "Germany",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Germany promoting social equality, anti-austerity measures, and workers' rights.",
+              "website": "https://www.die-linke.de/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-55",
+          "name": "New Democracy",
+          "country": "Greece",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Greece advocating for economic reforms, European integration, and national security.",
+              "website": "https://www.nd.gr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-56",
+          "name": "SYRIZA (Coalition of the Radical Left)",
+          "country": "Greece",
+          "eu_affiliation": "The Left",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Greece focusing on social justice, anti-austerity measures, and EU integration.",
+              "website": "https://www.syriza.gr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-57",
+          "name": "PASOK – Movement for Change",
+          "country": "Greece",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Greece advocating for progressive reforms and EU cooperation.",
+              "website": "https://www.pasok.gr/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-58",
+          "name": "Fidesz – Hungarian Civic Union",
+          "country": "Hungary",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing political party in Hungary advocating for national sovereignty, conservative values, and anti-immigration policies.",
+              "website": "https://www.fidesz.hu/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-59",
+          "name": "Jobbik",
+          "country": "Hungary",
+          "eu_affiliation": "ECR",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A far-right political party in Hungary advocating for Hungarian nationalism, Euroscepticism, and stricter immigration policies.",
+              "website": "https://jobbik.hu/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-60",
+          "name": "Democratic Coalition (DK)",
+          "country": "Hungary",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Hungary focusing on democratic reforms, anti-corruption measures, and EU integration.",
+              "website": "https://dkp.hu/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-61",
+          "name": "Fianna Fáil",
+          "country": "Ireland",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center to center-left political party in Ireland focused on economic development, social justice, and European cooperation.",
+              "website": "https://www.fiannafail.ie/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-62",
+          "name": "Fine Gael",
+          "country": "Ireland",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Ireland advocating for economic liberalism, European integration, and individual freedoms.",
+              "website": "https://www.finegael.ie/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-63",
+          "name": "Sinn Féin",
+          "country": "Ireland",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Ireland advocating for Irish republicanism, social justice, and economic equality.",
+              "website": "https://www.sinnfein.ie/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-64",
+          "name": "Green Party",
+          "country": "Ireland",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in Ireland focusing on environmentalism, sustainability, and social justice.",
+              "website": "https://www.greenparty.ie/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-65",
+          "name": "Democratic Party (PD)",
+          "country": "Italy",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Italy focused on progressive reforms, social equality, and European unity.",
+              "website": "https://www.partitodemocratico.it/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-66",
+          "name": "Lega",
+          "country": "Italy",
+          "eu_affiliation": "ID",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing political party in Italy advocating for nationalism, anti-immigration policies, and Euroscepticism.",
+              "website": "https://www.leganord.org/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-67",
+          "name": "Five Star Movement (M5S)",
+          "country": "Italy",
+          "eu_affiliation": "EFDD",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A populist political movement in Italy advocating for direct democracy, anti-corruption, and environmental sustainability.",
+              "website": "https://www.movimento5stelle.it/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-68",
+          "name": "Forza Italia",
+          "country": "Italy",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Italy focused on free-market policies, national sovereignty, and pro-European Union stances.",
+              "website": "https://www.forzaitalia.it/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-69",
+          "name": "Unity (Vienotība)",
+          "country": "Latvia",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Latvia advocating for pro-European Union policies, economic growth, and social stability.",
+              "website": "https://www.vienotiba.lv/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-70",
+          "name": "Saskana",
+          "country": "Latvia",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Latvia focusing on social equality, minority rights, and strengthening ties with Russia and Eastern Europe.",
+              "website": "https://www.saskana.lv/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-71",
+          "name": "Latvian Russian Union",
+          "country": "Latvia",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A party advocating for the rights of Russian-speaking Latvians, national sovereignty, and social justice.",
+              "website": "https://www.lks.lv/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-72",
+          "name": "Lithuanian Farmers and Greens Union",
+          "country": "Lithuania",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Lithuania focused on environmental issues, social justice, and agrarian policies.",
+              "website": "https://www.lsdp.lt/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-73",
+          "name": "Homeland Union – Lithuanian Christian Democrats",
+          "country": "Lithuania",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Lithuania advocating for conservative values, national security, and EU integration.",
+              "website": "https://www.tslk.lt/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-74",
+          "name": "Lithuanian Social Democratic Party",
+          "country": "Lithuania",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A social democratic party in Lithuania advocating for progressive policies, social welfare, and EU cooperation.",
+              "website": "https://www.lsdp.lt/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-75",
+          "name": "Democratic Party (DP)",
+          "country": "Luxembourg",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A liberal political party in Luxembourg advocating for individual rights, economic liberalism, and EU integration.",
+              "website": "https://www.dp.lu/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-76",
+          "name": "Luxembourg Socialist Workers' Party",
+          "country": "Luxembourg",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Luxembourg focused on social justice, workers' rights, and European solidarity.",
+              "website": "https://www.lsap.lu/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-77",
+          "name": "The Greens (Luxembourg)",
+          "country": "Luxembourg",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in Luxembourg advocating for environmentalism, sustainability, and social equity.",
+              "website": "https://www.dei.lu/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-78",
+          "name": "Labour Party (Malta)",
+          "country": "Malta",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Malta advocating for social justice, economic development, and European integration.",
+              "website": "https://www.mlp.org.mt/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-79",
+          "name": "Nationalist Party (Malta)",
+          "country": "Malta",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Malta focusing on conservative values, EU integration, and national sovereignty.",
+              "website": "https://pn.org.mt/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-80",
+          "name": "People's Party for Freedom and Democracy (VVD)",
+          "country": "Netherlands",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in the Netherlands advocating for free-market policies, individual rights, and European cooperation.",
+              "website": "https://www.vvd.nl/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-81",
+          "name": "Democrats 66 (D66)",
+          "country": "Netherlands",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in the Netherlands advocating for liberal values, environmental sustainability, and EU integration.",
+              "website": "https://d66.nl/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-82",
+          "name": "GroenLinks (Green Left)",
+          "country": "Netherlands",
+          "eu_affiliation": "Greens/EFA",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in the Netherlands focused on environmentalism, social justice, and equality.",
+              "website": "https://groenlinks.nl/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-83",
+          "name": "Party for Freedom (PVV)",
+          "country": "Netherlands",
+          "eu_affiliation": "ENF",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing populist party in the Netherlands advocating for national sovereignty, anti-immigration policies, and Euroscepticism.",
+              "website": "https://www.pvv.nl/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-84",
+          "name": "The Left (Socialist Party)",
+          "country": "Netherlands",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A socialist party in the Netherlands advocating for workers' rights, wealth redistribution, and anti-austerity policies.",
+              "website": "https://www.sp.nl/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-85",
+          "name": "Law and Justice (PiS)",
+          "country": "Poland",
+          "eu_affiliation": "ECR",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing political party in Poland focusing on nationalism, social conservatism, and Euroscepticism.",
+              "website": "https://pis.org.pl/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-86",
+          "name": "Civic Platform (PO)",
+          "country": "Poland",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Poland advocating for European integration, free markets, and individual liberties.",
+              "website": "https://www.platforma.org/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-87",
+          "name": "The Left (Lewica)",
+          "country": "Poland",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political alliance in Poland focused on social justice, workers' rights, and anti-austerity policies.",
+              "website": "https://lewica.org/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-88",
+          "name": "Polish Coalition",
+          "country": "Poland",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political alliance in Poland advocating for economic liberalism and European integration.",
+              "website": "https://www.kp.pl/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-89",
+          "name": "Socialist Party (PS)",
+          "country": "Portugal",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Portugal focused on social welfare, economic development, and EU integration.",
+              "website": "https://www.ps.pt/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-90",
+          "name": "Social Democratic Party (PSD)",
+          "country": "Portugal",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Portugal focused on economic liberalism, individual freedoms, and European integration.",
+              "website": "https://www.psd.pt/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-91",
+          "name": "Left Bloc (BE)",
+          "country": "Portugal",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Portugal focusing on social justice, anti-austerity measures, and workers' rights.",
+              "website": "https://www.bloco.org/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-92",
+          "name": "Portuguese Communist Party (PCP)",
+          "country": "Portugal",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A communist party in Portugal advocating for social equality, anti-capitalism, and workers' rights.",
+              "website": "https://www.pcp.pt/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-93",
+          "name": "Social Democratic Party (PSD)",
+          "country": "Romania",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Romania advocating for social justice, economic development, and EU integration.",
+              "website": "https://www.psd.ro/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-94",
+          "name": "National Liberal Party (PNL)",
+          "country": "Romania",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Romania focused on economic liberalism, free markets, and European integration.",
+              "website": "https://www.pnl.ro/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-95",
+          "name": "Save Romania Union (USR)",
+          "country": "Romania",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A progressive political party in Romania focusing on anti-corruption, transparency, and EU integration.",
+              "website": "https://www.usr.ro/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-96",
+          "name": "Hungarian Democratic Union of Romania (UDMR)",
+          "country": "Romania",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A political party in Romania representing the Hungarian minority, advocating for cultural autonomy and regional development.",
+              "website": "https://www.udmr.ro/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-97",
+          "name": "Direction – Social Democracy (Smer-SD)",
+          "country": "Slovakia",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Slovakia focused on social justice, economic welfare, and EU integration.",
+              "website": "https://www.smer.sk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-98",
+          "name": "Slovak Democratic and Christian Union – Democratic Party (SDKÚ-DS)",
+          "country": "Slovakia",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Slovakia advocating for free markets, individual freedoms, and European integration.",
+              "website": "https://www.sdkus.sk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-99",
+          "name": "Freedom and Solidarity (SaS)",
+          "country": "Slovakia",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Slovakia focused on economic liberalism, individual liberties, and European cooperation.",
+              "website": "https://www.sas.sk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-100",
+          "name": "People's Party (ĽSNS)",
+          "country": "Slovakia",
+          "eu_affiliation": "EFDD",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A far-right political party in Slovakia focusing on national sovereignty, anti-immigration policies, and conservative values.",
+              "website": "https://www.narodnarada.sk/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-101",
+          "name": "Liberal Democracy of Slovenia (LDS)",
+          "country": "Slovenia",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A liberal political party in Slovenia advocating for economic liberalism, social justice, and EU integration.",
+              "website": "https://www.lds.si/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-102",
+          "name": "Social Democrats (SD)",
+          "country": "Slovenia",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Slovenia focused on social justice, economic welfare, and EU integration.",
+              "website": "https://www.sd.si/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-103",
+          "name": "Slovenian Democratic Party (SDS)",
+          "country": "Slovenia",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Slovenia focused on economic liberalism, national identity, and European integration.",
+              "website": "https://www.sds.si/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-104",
+          "name": "The Left (Levica)",
+          "country": "Slovenia",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Slovenia focused on anti-austerity, social equality, and workers' rights.",
+              "website": "https://www.levica.si/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-105",
+          "name": "Spanish Socialist Workers' Party (PSOE)",
+          "country": "Spain",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Spain focusing on social welfare, justice, and European integration.",
+              "website": "https://www.psoe.es/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-106",
+          "name": "People's Party (PP)",
+          "country": "Spain",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Spain advocating for economic liberalism, law and order, and European cooperation.",
+              "website": "https://www.pp.es/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-107",
+          "name": "VOX",
+          "country": "Spain",
+          "eu_affiliation": "ID",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing political party in Spain focusing on nationalism, anti-immigration policies, and law and order.",
+              "website": "https://www.voxespana.es/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-108",
+          "name": "Unidas Podemos",
+          "country": "Spain",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political coalition in Spain focused on social justice, anti-austerity, and workers' rights.",
+              "website": "https://unidaspodemos.org/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-109",
+          "name": "Citizens (Ciudadanos)",
+          "country": "Spain",
+          "eu_affiliation": "Renew Europe",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Spain advocating for liberalism, individual freedoms, and European cooperation.",
+              "website": "https://www.ciudadanos-cs.org/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-110",
+          "name": "Swedish Social Democratic Party (SAP)",
+          "country": "Sweden",
+          "eu_affiliation": "PES",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-left political party in Sweden focused on social welfare, workers' rights, and EU integration.",
+              "website": "https://www.socialdemokraterna.se/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-111",
+          "name": "Moderate Party (M)",
+          "country": "Sweden",
+          "eu_affiliation": "EPP",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A center-right political party in Sweden advocating for free market policies, fiscal responsibility, and European integration.",
+              "website": "https://www.moderat.se/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-112",
+          "name": "Sweden Democrats (SD)",
+          "country": "Sweden",
+          "eu_affiliation": "ID",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A right-wing political party in Sweden focusing on nationalism, anti-immigration policies, and law and order.",
+              "website": "https://www.sverigedemokraterna.se/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-113",
+          "name": "Left Party (Vänsterpartiet)",
+          "country": "Sweden",
+          "eu_affiliation": "GUE/NGL",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A left-wing political party in Sweden focused on social justice, workers' rights, and anti-austerity policies.",
+              "website": "https://www.vansterpartiet.se/"
+          },
+          "sources": {}
+      },
+      {
+          "id": "party-114",
+          "name": "Centre Party (C)",
+          "country": "Sweden",
+          "eu_affiliation": "ALDE",
+          "stances": {
+              "Reduce Regulatory Burden": "unknown",
+              "European Inc": "unknown",
+              "Tax Discounts": "unknown",
+              "Embrace AI": "unknown",
+              "Reform Bankruptcy Laws": "unknown",
+              "Teach AI": "unknown"
+          },
+          "metadata": {
+              "description": "A centrist political party in Sweden advocating for environmental sustainability, social justice, and European cooperation.",
+              "website": "https://www.centerpartiet.se/"
+          },
+          "sources": {}
+      }
+  ]
+}
